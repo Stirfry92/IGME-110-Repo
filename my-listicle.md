@@ -58,3 +58,21 @@ There are tons of videogames that have shaped me as a person and bring positivit
 - [Rain World](https://store.steampowered.com/app/312520/Rain_World/)
 - [Skyrim SE](https://store.steampowered.com/app/489830/The_Elder_Scrolls_V_Skyrim_Special_Edition/)
 - [Celeste](https://store.steampowered.com/app/504230/Celeste/)
+
+## Incredible People
+There are some awesome people in my life that always keep me positive, every time I think of them my day get's a little bit brighter. Here is a few!
+### My Older Brothers
+- They act almost exactly like me. Weirdly so in a lot of circumstances.
+- Huge inspiration for me. Since we're so similar I tend to look at their lives and believe I can reach similar goals.
+- This belief keeps me going, they are living proof that I have so much to look forward to!
+### Friends from Chataqua
+- I've got some incredible friends back at home and, now that college has started, all over the place!
+- They have supported me through some of my toughest times, and as much as it hurts to be away from them I know they will continue to do so!
+- Know me probably better than anyone else.
+### My Lovely Mother
+- Provides endless support.
+- Also a very inspiring person. She does it all.
+- Would not be here without her, so that's cool.
+
+## Conclusion:
+These lists are not all-encompassing, obviously there is a lot more in my life to bring me joy than these simple ideas. Sometimes life isn't all about the expansive joys provided by having your dream job, purchasing your first family home, or striking something off of your bucket list. Most of us spend the majority of our lives in a transitional period. In college for example, we aren't much of anything until we finally make connections with people or get "the big job". That does not mean we have nothing to look forward to. If you can maintain a childlike sense of wonder for the simple pleasures life brings such as seeing an animal you like, playing a game, or finally calling that influential person, you will always have something to look forward to.
