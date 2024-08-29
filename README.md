@@ -1,10 +1,10 @@
-# My Repo
+# My IGME 110 Repo!
 
 ## Look out for:
 
 - Wonderful Masterpieces
 - 3am Caffine Ramblings
-- Island of Forgotten Projects
+- The Island of Forgotten Projects
 
 ## It's so cool here!
 
