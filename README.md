@@ -8,6 +8,6 @@
 
 ## It's so cool here!
 
-![Epic Bear!!!!!!!!!!!!!!!!!!!!!!!!](images.md/black-bear-o658kr5e798affq7.jpg)
+![Epic Bear!!!!!!!!!!!!!!!!!!!!!!!!](md-images/black-bear-o658kr5e798affq7.jpg)
 
 *Enjoy your stay!*
