@@ -1,1 +1,109 @@
 
+GOB (Games Out the Basement)
+	
+Executive Summary
+
+“What even is a GOB?”
+Games out the Basement (GOB) is a solution for those who want to truly broaden their horizon in the gaming world. Our goal with our platform is to provide an expansive collection of games for a monthly fee, but at a moderately reduced price at the cost (or benefit, depending on the audience) of a lack of well-known games. We specialize in bringing the greatest indie games that you’ve never heard of to a centralized platform where a singular recurring fee can get you access to hundreds of worthy titles. As we are an indie provider, we want to maximize  community, an integral part of the indie scape when it comes to bonding over games, growing the audience of games that deserve the spotlight, and bringing money and satisfaction to the pockets of developers.
+
+“Who exactly is this made for? Doesn’t a service like this exist?”
+Of course, as a games platform, our target audience is obvious: the gamers. However, we want to focus on the subset of gamers who don’t know what to play, especially when it comes to where to go to find fresh, but fledged-out games. Indie gems are often tough to find, as many do not get the attention they deserve, and some developers do not have the money to put their game out there. We at GOB want to fix this problem, and give these indie gems the platform they deserve through our team of dedicated scouts, but most importantly you. 
+
+“‘Me’? Why me? What do I have to do with this?”
+You being a player is actually exactly what makes you important. But not just the players, but the investors, and all else interested in GOB, are the backbone of its success. Without community, our vision will never be realized, and nor will the games that deserve to be easily accessible and playable to the rest of the world. And, of course, it’s not just us that want to broaden your horizon. We more want you all to broaden each other’s horizons, thereby forming relationships that can last a lifetime through the beauty of unity. That’s what the gaming, especially the indie gaming, community is all about, right?
+
+How We’re Not the Competition
+At GOB, we take expert pride in the unique features we provide as part of our games service. We have spoken a lot already about community, but you might be wondering: where does this actually apply? Indie games become successful off of tight-knit, passionate communities, and we wanted to make sure we could maximize how our community can expand to the most it can. We have a general forum for all kinds of discussion of the games on our platform, but we also made sure that each game we add to our platform automatically has a way for new gamers to spread what they love about the games they play through their own subcommunities. 
+We want to maximize unity among games and their players, but we totally understand the hesitance one might have when someone recommends a game to them. Our game similarity algorithm will allow gamers to find similar games based on what they play, which can be further aided by suggestions in a certain game’s forum . If a game is suggested to be similar and good in a certain game’s forum, its relevance in our algorithm will be pushed up, allowing gamers to use each other to find new opportunities and aid some lesser popular games. 
+
+“But what about us developers?”
+ We also want developers to benefit from this, of course, and we do this based on a royalty system. If their game does good on our platform, we will give them more. It’s as simple as that. But if you’re asking “what if my game doesn’t do good?”, don’t panic. Our team of scouts make sure they are only adding the best games to our service, and if your game comes to our platform, there’s a near zero chance it will fail, especially with how much we emphasize the doctrine of community that’s so important in the indie space.
+
+To Wrap Up
+At GOB, we want to foster an ever-growing community of gamers, developers, and others to make the largest, most mutually beneficial subscription service in the world. We hope, through our features, who we target, and our crazy idea, that we can accomplish our dream and bring the indie industry to new heights through your support.
+Market Research and Need Analysis
+Competition
+The main competitor for our service is the Xbox Game Pass, a multi-tiered subscription that gives purchasers access to a number of high profile games from roughly 25 games for $9.99 a month to hundreds for $19.99 a month. While the Game Pass is the most well known, other very similar services include PlayStation Plus and Apple Arcade. Each of these services allow users to download and play any games in their catalog, but only when paying their monthly subscription fee. These services also notably give several other benefits ranging from cloud gaming to online play to reduced ads. Each of them are also from large corporations, and feature mainly AAA games. 
+Problems with the Competition
+The problem many seem to see in these pre-existing services is the price. Our service will remedy this by simply being much cheaper, as the games we’ll host will be much less expensive to begin with. To be specific, our service will be roughly $8 a month, being on average half as cheap as the Xbox Game Pass. Another common complaint for those services inherently is that the nature of monthly subscription will often force players to rush games they want to complete in time before their subscription runs out. Our service will likely have this effect significantly less due to the fact that most of our games would be shorter to begin with, being lesser known independent games.
+Evidence of Demand
+Furthermore, there is evidence that demand for this kind of service exists. Independent developers have been making bigger and bigger waves, and have been taking up more industry space as time has gone on. Especially this year alone, indie games have skyrocketed in popularity, as well as in sales, highlighted in this graph here from Konvoy.
+
+Many believe this to be in part due to AAA games becoming slightly less popular over time as many feel creativity has stagnated in many ways.  Also from Konvoy is a graph highlighting this trend.
+As our service consists of only independent games, I believe it would be able to ride the wave of growing distrust in AAA companies and growing popularity of independent games. 
+
+Product Description
+Subscription
+Our most central and advertised feature is our $8 monthly subscription game pass which allows users to play as many indie games for free as long as their subscription doesn’t expire.  When the subscription does expire, users won’t be able to play or download any more games locked behind our game pass until they renew their subscription. This is not to discourage users, it is meant to be a cheaper alternative for users who spend a lot of money on games that would be later finished, or no longer played to avoid collecting dust in the back of their shelves.
+
+Forums
+Despite mostly being a subscription based game distributing company, we highly encourage users to connect  with each other through the use of our game forums. This feature is heavily inspired and improved from Reddit’s forums and Steam’s community features. We plan to tackle community interaction through two types of forums: The Game Hub and the Subcommunity. 
+The Game Hub will be the central place for every GOB user to post anything from game recommendations, reviews, or feedback on how to improve the site even more. Our team is open to hearing back from our community and will even add games that users request. 
+The Subcommunity are user-created communities typically revolving around a specific game or common interest. Taking inspiration from a feature in the Obsidian software, where users will also be recommended to check other similar subcommunities based on their current interactions and interest. 
+
+Scouts
+Outside of our website, our team will hire the  best “scouts” with plentiful gaming experience to find high-quality indie games in various genres so that as many of our audience will find games that they’re satisfied playing with. 
+
+Game Library
+When checking out our website, users will be greeted with a slide show of our most popular indie titles available. If the showcased games don't suit the user’s preference, we have a whole game library left for our users to explore and discover for themselves. All of our available games will be organized alphabetically and categorized by genre. Our library will initially start out with a small number of games, but through the help of our scouts and  fan community, we plan to slowly expand our collection over time.
+
+Library Notification
+Whenever any new game is added to our library we will notify every user about it so that they can always know and try out the newest indie games we have in store.
+
+Game Developer Royalty System
+For the indie developers who agree with our partnership to advertise their game, we promise to pay them back through a royalty system based on their game’s performance on our website. With our reliable scouts, we will take extra measures to ensure that our platform’s games will not fail and that developers will get their money’s worth. 
+
+Rotation System
+As more games are added to our library, there may be growing concerns as to how this may affect the revenues for the game developers. In order to avoid cutting royalties from our valuable developers if our profits grow stagnant while we continue to add games, we have formulated a plan to have a rotation system. Every month, we will hand-select and take out 50 games from our website and replace them with another 50 games, which includes new and previously rotated out games. We will notify in advance and compensate developers whose game has been rotated out.
+
+Graduated Games
+When an indie game reaches the point where they’re popular enough outside the website and they won’t need our support to be advertised anymore, they will be considered “graduated” and will be removed from our website after the current rotation month ends. Graduated games will not return back to our website and the developers will be compensated for their success.
+
+User Loyalty System
+A reward system for users who played games that have graduated out of our website. Users will be compensated with loyalty credits that essentially pays back portions of their subscription as a thank you for playing a part in the game’s success. 
+
+Random Game Selector
+	As the name suggests, if the user struggles with indecision of which games to play in our library, we will make a button for our user to click on to be sent to a random game page to check out.
+
+Front Page Mockup:
+
+
+(Created in Google Slides)
+Image Sources Used:
+Megaphone icon - 
+“Transparent Background Megaphone Icon, HD Png Download , Transparent Png Image - PNGitem.” 
+PNGitem.com, 2019, www.pngitem.com/middle/TowRTob_transparent-background-megaphone-icon-hd-png-download/.  Accessed 26 Sept. 2024.
+Mystery Box -
+Vasilyrosca. “Mystery Contest Box Lucky Prize Present Surprise Secret Mystery Box Gift Question Icon Cartoon Vector | CartoonDealer.com #206202443.” CartoonDealer, 2024, cartoondealer.com/image/206202443/mystery-contest-box-lucky-prize-present-surprise-secret-mystery-box-gift-question-icon.html.  Accessed 26 Sept. 2024. 
+
+Possible Problems and Counterarguments
+Q: How does Games Out the Basement intend to navigate the difficulties introduced by current market conditions, especially considering it is still a start-up? 
+It is important for every startup to realize the capacity of an industry for new business, and undeniably the current standing of the gaming industry leaves much to be desired. At this moment, we are seeing some of the largest layoffs in recent history.
+Microsoft alone plans to layoff 650 workers specifically from their gaming sector, most likely due to suspicions of an oncoming recession. The expansion we saw in 2020 has outgrown the demand for games, causing plenty of companies to cut back on labor. While these reductions are significant when deciding to move forward with this project, our initiative is placed in the fortunate position of specializing in indie-developed games. 
+While the market as a whole is suffering in this exact point in time, indie-games specifically have been carving out greater portions of the market year after year. By focusing on the unfairly overlooked indie sector, our store is investing heavily in indie growth, which has proven to be incredibly consistent and profitable. 
+We remain optimistic, as through our scouting initiatives we work towards two key benefits. By explicitly scouting indie games, GOB is 1: distancing itself from major AAA companies who are struggling the most as gamer preference shifts away from major titles, and is 2: open to the possibility of partnership deals on a by-need basis, achieving the greatest flexibility available at this time. 
+Despite the hardships at this time, Games Out the Basement is taking all the necessary steps to minimize industry-related difficulties, and expect to surpass the predicted industry median through our careful market strategies, while still striving for significant change to differentiate ourselves from our competitors. We feel that our customers will support us through this transitioning period, and be relieved to discover our service will continue to support them as well even through whatever difficulties the market may introduce.
+Q: How will Games out the Basement obtain the necessary funding to keep it running? It seems like way too ambitious an idea to be a startup.
+	But shouldn’t every startup be ambitious? Though we don’t have everything down when it comes to obtaining funding and making our system work, we have the backbone of what we would want to accomplish through our service. The cut to our monthly price compared to the usual games service most definitely brings upon a money issue, but it’s necessary considering what we offer. We’re obviously not going to have 200 titles on our platform on launch, even we know that’s way too high a number. We do know, however, that Xbox Game Pass has its cheapest plan only able to give you so many games (specifically, Xbox Game Pass’ Core plan, giving you only 25 titles exclusive for Xbox).
+We wanted to work off of that, but more from a standpoint of “we need to build our platform” rather than “we can’t give people too much”. We want to keep our price to start ($8 per month), even with a limited set of titles, but we want to keep this same price even when we get more titles. This is an indie gaming service, and we want to cater to those who don’t want to spend a lot of money, and just want to get some quick fun in, which is more people than one might think. Obviously the question of how we get funds while actually running is still up in the air, but as we add titles to our service and the games get more popular, our royalty based system, with a slight cut going to us, we’ll only get more and more money. Obviously with more games, we’d have to pay more developers, but our monetary system makes sure that neither us, nor the devs, go hungry, even with our ever-expanding library.
+Q: How will GOB partner with developers to get games on their service in the first place? I don’t see the benefit for developers.
+	Another possible problem of our service is getting developers to work with us in the first place. Since all of our partners would be very small studios or even individuals, it may be difficult to get deals going. However, from a logical standpoint, those small devs would have a large incentive to work with us as selling on our platform as opposed to others would increase the spotlight they get relative to if they published on Steam for example. Our service is smaller, so games will inherently get seen more than if they were sold on Steam. We intend on implementing several community features so as to increase word of mouth about games that users enjoy, which would help build a community around independent games and earn studios a following of fans earlier in their lifetimes. In addition they would obviously be paid royalties relative to how popular their game is on our service. We’re looking to work with developers who have smaller scale, unknown, games that would make sense to be sold for a cheaper anyways, but the additional publicity would help allow the game to sell more to begin with, and help get studios off the ground. 
+
+Conclusion and Recommendations
+The Present and Future of Gaming:
+	Video game distribution has come to complete stagnation over the last decade. So often do companies and users alike reach a certain point of acceptance: eventually, we all become complacent. This is in spite of the borderline archaic user-interface of current distributors. These distributors refuse to work alongside developers to maximize a game’s outreach, failing to realize their flaws,  allowing quality indie-games to fall into complete obscurity. 
+Instead, Games Out the Basement seeks to provide its users with optimal, well-thought out solutions to these mistakes. GOB will bring gamers into a new era of shopping. Unlike “modern” distributors, our platform will maximize the exposure of quality indie games and cultivate strong communities. Games Out the Basement strives to bring underground titles to the limelight, and encourage an environment of game sharing no longer restricted by costly games or AAA titles. Simply one monthly payment will give access to hundreds of games with potentially thousands of hours of gameplay at our users’ fingertips.
+How Games Out the Basement Revolutionizes the Industry:
+	The adoption of GOB into the digital marketplace will drastically improve game distribution, in ways significant for individuals. With an advanced array of community features, we will foster a community of avid gamers who not only uplift our developer partners, but are excited to work alongside us to improve our platform. Our community comes first. When we allow the player’s recommendations to lead the charge, we will revolutionize the battlefield that is the digital gaming industry. Ultimately, gamers will always seek out the most engaging, adaptive services on the market. Our service is leading the charge by standing at the forefront of these innovations. 
+When Games Out the Basement creates partnerships with our indie developers, promises are set in stone. For our users, this promise represents a guaranteed level of quality shared by all our games, and the assurance of an elevated experience unique to our service. For our developer partners, this promise represents an opportunity to receive the deserved attention and praise for their creations, and assistance finding a home on our platform. 
+No matter who utilizes our service, GOB will continue to fight for user benefits  in an industry preoccupied with age-old and well-worn business practices.
+The Need for Action:
+The development of Games Out the Basement is in your hands. We highly advise your continued support as this project takes its first root, so GOB may grow alongside you as we blossom into an industry-leading powerhouse. Admittedly, the gaming market is in a sort of drought right now, but even in a drought a desert flower can bloom. 
+Seize the moment while the market is transitioning, and experiment with new ideas. Let’s not stand idle and allow our expectations to turn dormant, branch out and help the industry diversify its options. Take advantage of our legwork: push for innovation.  Take advantage of this opportunity: prepare for risks. Take advantage of Games Out the Basement, and you will be proud of what we can accomplish together. 
+
+Bibliography
+Anand, Preeti. "Why did Microsoft Layoff Over 650 Employees: Inside Xbox Layoffs." Dataquest, 2024. ProQuest, https://ezproxy.rit.edu/login?url=https://www.proquest.com/trade-journals/why-did-microsoft-layoff-over-650-employees/docview/3104176035/se-2. 
+Contributor, Mike Futter. “Cheap Money and Bad Bets: How the Games Industry Turned Pandemic Success into Disaster.” GamesIndustry.Biz, 16 Sept. 2024, https://www.gamesindustry.biz/cheap-money-and-bad-bets-how-the-games-industry-turned-pandemic-success-into-disaster. Accessed 16 Sept. 2024
+“Join Xbox Game Pass: Discover Your next Favorite Game | Xbox.” Xbox.Com, https://www.xbox.com/en-US/xbox-game-pass. Accessed 16 Sept. 2024.
+Price, Emily. “Ftc Challenges Xbox Game Pass Price Hike as ‘Product Degradation.’” PCMAG, PCMag, 20 July 2024, https://www.pcmag.com/news/ftc-challenges-proposed-xbox-game-pass-price-hike. Accessed 16 Sept. 2024.
+The Era of the Indie Game. KONVOY Ventures, Masr 2024, https://www.konvoy.vc/content/the-era-of-the-indie-game. Accessed 16 Sept. 2024.
